@@ -10,9 +10,7 @@ The branching strategy that I will be using is known as a github flow strategy. 
 
 The idea behind the use of this branching strategy is to keep the code in the main branch in a state of constant deployability as well at to keep the main branch neat and orgainised.This strategy will work because of the small timeframe that is availible for the module requiring us to upload projects on a regular basis.
 
-<picture>
-    <source media="(prefers-color-scheme: light)"scrset="C:\adir\Uni 2022\cmpg323\projects\branchingStrategy.png">
-</picture>
+![Image of branching strategy](/assets/images/branchingStrategy.png)
 
 ## Update
 Sample code was added to the repository. this is code was used for an information system that solves problems with regards to stock tacking, customer database, inventory, discounts, and a database for employees.
