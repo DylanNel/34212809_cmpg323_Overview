@@ -1,4 +1,4 @@
-# **Overview** `#0969DA`
+# **Overview** 
 Repository for CMPG 323 overview repository
 
 This repository is the overview repository for the CMPG 323 module. In this repository there will be a planning and schedule of everything that is going to happen in the Future.
@@ -6,7 +6,7 @@ This repository is the overview repository for the CMPG 323 module. In this repo
 ## Update - Creation of repositories
 There will be 5 repositories created for this project. each sub project will have its own repository.
 These repositories will be named:
-- 34212809_Project2
+- <a href="https://github.com/DylanNel/34212809_Project2_API"> 34212809_Project2_API</a>
 - 34212809_Project3
 - 34212809_Project4
 
@@ -57,5 +57,5 @@ There is also tools that can be used to analyse your commits like git-secrets. g
 The addition of a security.md file to the repository. In this file the security and privacy policies can be discussed as well as how to report and disclose of issues properly, this report and disclosure section should also have a way to contact the people responsible for the management of the repo.
 
 You can also create the github repository with security in mind and make use of the github offerings in terms of security.
-<a href="https://snyk.io/blog/ten-git-hub-security-best-practices/">More Security Info</a>
+
 
