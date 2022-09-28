@@ -8,8 +8,8 @@ This repository is the overview repository for the CMPG 323 module. In this repo
 
 There will be 5 repositories created for this project. each sub project will have its own repository.
 These repositories will be named:
-- <a href="https://github.com/DylanNel/Project2_CMPG323_34212809"> Project2_CMPG323_34212809</a>
-- Project3_CMPG323_34212809
+- <a href="https://github.com/DylanNel/Project2_CMPG323_34212809"> Project2_CMPG323_34212809 </a>
+- <a href="https://github.com/DylanNel/Project3_CMPG323_34212809"> Project3_CMPG323_34212809 </a>
 - Project4_CMPG323_34212809
 
 These repositories will be linked as soon as they are created and ready 
@@ -65,7 +65,12 @@ The addition of a security.md file to the repository. In this file the security 
 
 You can also create the github repository with security in mind and make use of the github offerings in terms of security.
 
+All of the gitub repositories from project 2 onwards contains .gitignore files with the Visual studio template applied.
 
 ## Update - Project 2 
 
 The repository for the 2nd project for CMPG 323 has been created. The link to the repo can be found at the top of the readme. There is a development branch as well as a main branch in the repo, More code will be uploaded as the project nears completion.
+
+## Update - Project 3
+
+The repository for the 3rd project has been created and linked to in the top of the overview repository. The repo consists of a main as well as a devolpment branch. the repo contain forked code from the <a href="https://github.com/JacquiM/CMPG-323-IOT-Device-Management"> IOT device management </a> repository. the code has been edited to meet requirements.
