@@ -10,7 +10,7 @@ There will be 5 repositories created for this project. each sub project will hav
 These repositories will be named:
 - <a href="https://github.com/DylanNel/Project2_CMPG323_34212809"> Project2_CMPG323_34212809 </a>
 - <a href="https://github.com/DylanNel/Project3_CMPG323_34212809"> Project3_CMPG323_34212809 </a>
-- Project4_CMPG323_34212809
+- <a href="https://github.com/DylanNel/Project4_CMPG323_34212809"> Project4_CMPG323_34212809 </a>
 
 These repositories will be linked as soon as they are created and ready 
 
@@ -74,3 +74,17 @@ The repository for the 2nd project for CMPG 323 has been created. The link to th
 ## Update - Project 3
 
 The repository for the 3rd project has been created and linked to in the top of the overview repository. The repo consists of a main as well as a devolpment branch. the repo contain forked code from the <a href="https://github.com/JacquiM/CMPG-323-IOT-Device-Management"> IOT device management </a> repository. the code has been edited to meet requirements.
+
+## Update - Project4 
+
+The repostiory for the 4th Project has been created and linked to in the top of the readme. The Repos has two branches namely a main branch as well as a development branch. There was a project with a board created to document the work that was done as well as the the tasks that still need to be done. 
+
+The project was submitted along with all required documents.
+
+## Update - POE 
+
+The Completion of the POE is in progress. The following have been done:
+
+- My LinkedIn profile has been created, Profile has been updated with my MS Learn achievments.
+- I have completed all of the training required for the module.
+- my github is in the process of being updated.
